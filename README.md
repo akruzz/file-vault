@@ -1,3 +1,4 @@
+<img width="1230" height="803" alt="image" src="https://github.com/user-attachments/assets/ef3bddcf-e1e3-4421-a7c4-edade005bda2" />
 # File Vault
 
 A premium, minimalist, **fully client-side** file encryption tool. File Vault encrypts and decrypts files entirely inside your browser using the native **Web Crypto API** — no server, no uploads, no network requests of any kind.
